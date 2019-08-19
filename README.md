@@ -1,4 +1,4 @@
-# Dodge-v3
+# Dodge-v3 (October 2014)
 Recreated old Dodge project in Unity. Written in C# and built for Android. Rebuilt in August 2019 with Unity 2019.3.5f1
 
 ## Project Description
